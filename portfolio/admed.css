@@ -1,0 +1,29 @@
+body {
+	background-image: url(photo1.jpeg);
+	background-size: cover;
+}
+header {
+	color: yellow;
+	background-color: rgba(255, 125, 160, 0.5);
+	text-align: center;
+	font-size: 150%
+}
+li	{
+	list-style: none;
+	color: white;
+}
+p {
+	color: white;
+	font-size: 170%
+}
+strong {
+	color: white;
+}
+h1,body {
+	color: white
+/*<table border="1" style="border-collapse: collapse;">}*/
+
+/*.container1 {
+	border: 1px;
+    border-collapse: collapse;
+}*/
